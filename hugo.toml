@@ -1,0 +1,25 @@
+baseURL = "https://example.org/"
+author = "And4po"
+languageCode = "ca-ES"
+defaultContentLanguage = "ca"
+title = "And4po"
+theme = "ficurinia"
+copyright = "[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ca) · And4po"
+
+
+[params]
+    enableSearch = true
+    logo = "/favicon.ico"
+    favicon = "/favicon.ico"
+
+[menu]
+    [[menu.icons]]
+        identifier = "github"
+        name = "GitHub"
+        url = "https://github.com/and4po"
+        weight = 10
+    [[menu.icons]]
+        identifier = "mastodon"
+        name = "Mastodon"
+        url = "https://mastodont.cat/@ander_dapo"
+        weight = 20

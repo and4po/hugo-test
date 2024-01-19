@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "And4po",
+  "short_name": "And4po",
+  "start_url": "/",
+  "display": "standalone",
+  
+  
+  
+  "background_color": "#242629",
+  "theme_color": "#95dce0"
+  
+  
+}
+

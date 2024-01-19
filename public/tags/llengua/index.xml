@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Llengua on And4po</title>
+    <link>https://example.org/tags/llengua/</link>
+    <description>Recent content in Llengua on And4po</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca-ES</language>
+    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ca) · And4po</copyright>
+    <lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/llengua/index.xml" rel="self" type="application/rss+xml" /><icon>https://example.org/favicon.ico</icon>
+    
+    
+    <item>
+      <title>Diccionari català obert i sense connexió</title>
+      <link>https://example.org/posts/2023-12-20-diccionari-cat-offline/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/2023-12-20-diccionari-cat-offline/</guid>
+      <description><![CDATA[<p>Ja fa temps que cercava un diccionari català que pogués descarregar i fer servir sense connexió. Estic una mica fart d&rsquo;haver de fer-ho tot per internet, sovint deixant una gran empremta ecològica sense cap necessitat, ja que són serveis que es podrien executar en local si es vol. I per casualitat, cercant un diccionari per al meu llibre electrònic (sobre el qual molt aviat us duré una nova entrada al bloc) l&rsquo;he trobat: un diccionari que fa servir les dades del Viccionari i les converteix a un format obert i fàcil de gestionar.</p>
+<p>Aquest projecte sobre el qual us estic parlant és <a href="https://github.com/BoboTiG/ebook-reader-dict/">eBook Reader Dictionaries</a>, que fent servir la base de dades del <a href="https://ca.wiktionary.org/">Viccionari</a> crea un diccionari molt complet i actualitzat. <a href="https://github.com/BoboTiG/ebook-reader-dict/blob/master/docs/ca/README.md">Aquí</a> teniu tota la informació en català (traduïda per un servidor), des d&rsquo;aquest mateix enllaç podeu trobar els enllaços de descàrrega a tots els formats i versions. Tot el que explicaré a continuació serà utilitzant la versió completa en format <em>StarDict</em>.</p>
+<h1 id="a-lordinador-versió-gràfica">A l&rsquo;ordinador (versió gràfica)</h1>
+<p>Per accedir a aquest fantàstic diccionari des de l&rsquo;ordinador gràficament faig servir l&rsquo;aplicació <code>GoldenDict-ng</code>. (<a href="https://github.com/xiaoyifang/goldendict-ng">Repositori</a> a Github). Disponible, com m&rsquo;agrada que sigui, per Linux, MacOS i Windows. Distribuït sota una llicència <em>GPL-v3</em>. L&rsquo;ús és molt simple i intuïtiu. I no només podeu afegir-hi aquest diccionari, podeu afegir-hi tots els diccionaris que vulgueu en format <em>StarDict</em>.</p>
+<p>Afegir-ne un és molt fàcil, només cal que ens dirigim a <em>Edit &gt; Dictionaries</em> o premem <em>F3</em>. A la barra de la dreta i veurem el botó <em>Add</em>, en prémer-lo se&rsquo;ns obrirà un navegador de fitxers, ens dirigirem a la carpeta on hem descomprimit el diccionari i premerem el botó <em>D&rsquo;acord</em>. També podeu desactivar els diccionaris anglesos que venen instal·lats per defecte des de les pestanyes de <em>Wikipedia</em> i <em>DICT servers</em>. Per acabar, premerem el botó <em>OK</em> situat a la part inferior per aplicar tots els canvis i sortir de la configuració dels diccionaris.</p>
+<p>També podeu configurar-hi moltes altres coses, utilitats de tota mena com dreceres de teclat o sistemes per veure&rsquo;n la pronunciació. Si voleu un article complet sobre com tinc configurat el <code>GoldenDict-ng</code>, feu-m&rsquo;ho arribar des de qualsevol de les meves xarxes socials o obrint un <em>Issue</em> al repositori de GitHub del bloc. Mentrestant, però, us recomano que doneu una ullada a la <a href="https://xiaoyifang.github.io/goldendict-ng/">documentació oficial</a>.</p>
+<p><img src="/images/Diccionari/goldendict-ng.png" alt="goldendict-ng.png"></p>
+<h1 id="al-mòbil">Al mòbil</h1>
+<p>També m&rsquo;agrada tenir un diccionari sempre a mà. I sovint és útil quan no tinc connexió o no puc treure el mode avió. L&rsquo;aplicació que he trobat és <code>QDict</code>. Aquesta aplicació ens permet gestionar els diccionaris d&rsquo;una manera ben simple i fàcil des del mòbil. També compta amb moltes funcions com una llista de paraules preferides. Té una llicència <em>Apache-2.0</em>. La podeu trobar a F-Droid des d&rsquo;<a href="https://f-droid.org/packages/com.annie.dictionary.fork/">aquest</a> enllaç i a Google Play des d&rsquo;<a href="https://play.google.com/store/apps/details?id=com.annie.dictionary">aquest</a>.</p>
+<p>Afegir un diccionari és ben fàcil, només cal que baixem el diccionari i que el descomprimim a l&rsquo;emmagatzematge intern, dins la carpeta <em>QDict/dicts/</em>. Llavors ens dirigim al menú lateral prement el botó dels tres guions, premem <em>Select dictionary</em> i activem en diccionari fent clic sobre seu. Ara sortim del menú lateral prement qualsevol part de la pantalla que no sigui el menú i llestos. Amb el botó de cercar a la cantonada inferior dreta podeu cercar al diccionari.</p>
+<p><img src="/images/Diccionari/qdict.jpeg" alt="qdict.jpeg"></p>
+<p>També us animo, que si trobeu alguna paraula que no hi sigui o alguna errada a una definició, podeu editar-la des del lloc web del <a href="https://ca.wiktionary.org/">Viccionari</a>. Que funciona de forma col·laborativa, com la Viquipèdia, ja que tambés està sota el braç de la <em>Fundació Wikimedia</em>.</p>
+]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Categories on And4po</title>
+    <link>https://example.org/categories/</link>
+    <description>Recent content in Categories on And4po</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca-ES</language>
+    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ca) · And4po</copyright>
+    <lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" /><icon>https://example.org/favicon.ico</icon>
+    
+    
+    <item>
+      <title>Llengua</title>
+      <link>https://example.org/categories/llengua/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/llengua/</guid>
+      <description><![CDATA[]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Utilitats</title>
+      <link>https://example.org/categories/utilitats/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/utilitats/</guid>
+      <description><![CDATA[]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Contrasenya</title>
+      <link>https://example.org/categories/contrasenya/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/contrasenya/</guid>
+      <description><![CDATA[]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Raspberry Pi</title>
+      <link>https://example.org/categories/raspberry-pi/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/raspberry-pi/</guid>
+      <description><![CDATA[]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>

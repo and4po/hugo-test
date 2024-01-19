@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Linux on And4po</title>
+    <link>https://example.org/tags/linux/</link>
+    <description>Recent content in Linux on And4po</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca-ES</language>
+    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ca) · And4po</copyright>
+    <lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/linux/index.xml" rel="self" type="application/rss+xml" /><icon>https://example.org/favicon.ico</icon>
+    
+    
+    <item>
+      <title>Recuperar la contrasenya de la teva Raspberry Pi</title>
+      <link>https://example.org/posts/2021-12-10-rp-recuperar-contrasenya/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/2021-12-10-rp-recuperar-contrasenya/</guid>
+      <description><![CDATA[<p>Això serà possible gràcies a que el sistema operatiu Raspberry OS està instal·lat en una targeta Micro SD, els fitxers de la qual podem modificar per a recuperar la contrasenya.</p>
+<p>Primer, hem de treure la targeta Micro SD de la nostra Raspberry Pi i amb un adaptador posar-la al nostre ordinador Windows, Mac o Linux. Després, hem d&rsquo;obrir el fitxer <em>cmdline.txt</em> amb qualsevol editor de textos i al final, escriure-hi el següent text <code>init=/bin/sh</code>.</p>
+<p><img src="/images/Passwd-RSPI/IMG-1.png" alt="screen"></p>
+<p>Seguidament, desarem els canvis i expulsarem la targeta Micro SD de l’ordinador i la tornarem a posar a la Raspberry Pi. En tornar a encendre la nostra Raspberry Pi ens apareixerà un cursor parpellejant, haurem d’escriure <code>passwd pi</code>. (Si no veus cap canvi a la pantalla, no passa res, per defecte les contrasenyes no es previsualitzen). Després, escriure-hi la nova contrasenya i pressionar Enter dues vegades. Només haurem d’executar el següent text: <code>sync exec /sbin/init</code>.
+Veurem que la Raspberry Pi es reinicia. Quan hagi acabat l’apagarem, expulsarem la targeta i al nostre ordinador esborrarem el text que hem escrit abans (<code>init=/bin/sh</code>).</p>
+<p>I en tornar a inserir la targeta al petit ordinador ja tornarà a funcionar perfectament!</p>
+<p>Si vols saber el perquè de tot el que hem fet clica <a href="example.com">aquest</a> enllaç.</p>
+]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>

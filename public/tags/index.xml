@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Tags on And4po</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on And4po</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca-ES</language>
+    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ca) · And4po</copyright>
+    <lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" /><icon>https://example.org/favicon.ico</icon>
+    
+    
+    <item>
+      <title>Llengua</title>
+      <link>https://example.org/tags/llengua/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/llengua/</guid>
+      <description><![CDATA[]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Mòbil</title>
+      <link>https://example.org/tags/m%C3%B2bil/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/m%C3%B2bil/</guid>
+      <description><![CDATA[]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Offline</title>
+      <link>https://example.org/tags/offline/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/offline/</guid>
+      <description><![CDATA[]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Linux</title>
+      <link>https://example.org/tags/linux/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/linux/</guid>
+      <description><![CDATA[]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>RaspberryPi</title>
+      <link>https://example.org/tags/raspberrypi/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/raspberrypi/</guid>
+      <description><![CDATA[]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>
